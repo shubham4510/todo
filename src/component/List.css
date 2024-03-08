@@ -1,0 +1,17 @@
+.list{
+    background-color: white;
+    color: #000;
+    display: flex;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 3px 6px;
+    justify-content: space-between;
+}
+
+i{
+    cursor: pointer;
+}
+
+i:hover{
+    color: red;
+}
